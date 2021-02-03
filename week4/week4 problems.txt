@@ -1,0 +1,9 @@
+Linked List: Easy(8):
+1290. Convert Binary Number in a Linked List to Integer – done
+876. Middle of the Linked List – done
+237. Delete Node in a Linked List -- done
+206. Reverse Linked List -- done
+21. Merge Two Sorted Lists -- done
+83. Remove Duplicates from Sorted List -- done
+160. Intersection of Two Linked Lists -- done
+203. Remove Linked List Elements -- done
