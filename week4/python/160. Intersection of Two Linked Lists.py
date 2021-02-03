@@ -25,4 +25,4 @@ class Solution:
                 return headA
             headA = headA.next
             headB = headB.next
-        return None160. Intersection of Two Linked Lists
+        return None
