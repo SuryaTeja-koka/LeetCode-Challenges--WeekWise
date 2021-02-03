@@ -1,0 +1,13 @@
+Arrays:
+1640. Formation Through Co Check Array concatenation    – done
+1480. Running Sum of 1d Array – done
+1431. Kids With the Greatest Number of Candies – done
+1470. Shuffle the Array – done
+1512. Number of Good Pairs – done
+1365. How Many Numbers Are Smaller Than the Current Number – done
+1313. Decompress Run-Length Encoded List  – done
+1389. Create Target Array in the Given Order  – done
+1486.	XOR Operation in an Array  – done
+1588. Sum of All Odd Length Subarrays  – done
+1295. Find Numbers with Even Number of Digits  – done
+1534. Count Good Triplets – done
