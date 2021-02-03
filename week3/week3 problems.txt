@@ -1,0 +1,19 @@
+Arrays:
+
+
+part-1:
+561. Array Partition I -- done
+977. Squares of a Sorted Array -- SEE IT LATER -- done
+1051. Height Checker -- done
+1502. Can Make Arithmetic Progression From Sequence -- done
+922. Sort Array By Parity II – done
+1337. The K Weakest Rows in a Matrix -- done
+
+
+part-2:
+1491. Average Salary Excluding the Minimum and Maximum Salary -- done
+1002. Find Common Characters -- done
+1122. Relative Sort Array -- done
+1160. Find Words That Can Be Formed by Characters -- done
+509. Fibonacci Number -- done
+999. Available Captures for Rook -- done
