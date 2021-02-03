@@ -1,0 +1,13 @@
+Arrays:
+1266. Minimum Time Visiting All Points – done
+1572. Matrix Diagonal Sum – done
+1252. Cells with Odd Values in a Matrix – done
+1450. Number of Students Doing Homework at a Given Time – done
+1464. Maximum Product of Two Elements in an Array – done
+832. Flipping an Image – done
+1304. Find N Unique Integers Sum up to Zero – done
+1351. Count Negative Numbers in a Sorted Matrix -- done
+905.Sort Array By Parity – done
+1475. Final Prices With a Special Discount in a Shop -- done
+1299. Replace Elements with Greatest Element on Right Side -- done
+1460. Make Two Arrays Equal by Reversing Sub-arrays -- done
